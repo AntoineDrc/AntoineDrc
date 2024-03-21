@@ -1,3 +1,5 @@
+![Bannière](https://github.com/AntoineDrc/AntoineDrc/blob/main/assets/Resized_Banniere.png)
+
 # Présentation
 
 Passionné par l'informatique, j'ai choisi de me laisser entièrement guider par cette passion, ce qui m'a mené vers une reconversion professionnelle en développement web. Mon aventure a pris racine à Strasbourg, ma ville, où j'ai commencé à tracer mon nouveau chemin en intégrant Elan Formation. Après une mise à niveau, j'ai continué sur le titre professionnelle, ou j'ai plongé dans le vaste et captivant univers du développement web et web mobile.
