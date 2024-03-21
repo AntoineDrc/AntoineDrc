@@ -1,4 +1,4 @@
-![Bannière](https://github.com/AntoineDrc/AntoineDrc/blob/main/assets/Resized_Banner_Aspect.png?raw=true)
+![Bannière](https://github.com/AntoineDrc/AntoineDrc/blob/main/assets/GitHub_Banner.png?raw=true)
 
 # Présentation
 
