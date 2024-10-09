@@ -2,9 +2,7 @@
 
 # Présentation
 
-Passionné par l'informatique, j'ai choisi de me laisser entièrement guider par cette passion, ce qui m'a mené vers une reconversion professionnelle en développement web. Mon aventure a commencé à Strasbourg, ma ville, en intégrant l'organisme Elan Formation. Après une mise à niveau, j'ai continué sur le titre professionnelle, ou j'ai plongé dans le vaste et captivant univers du développement web.
-
-L'enthousiasme de voir un projet se concrétiser, avec un code propre et élégant, est ce qui me stimule le plus. Bien que je sois encore au début de mon parcours professionnel, mon désir d'apprendre est sans fin et je suis déterminé à élargir mes compétences.
+Passionné par le développement web, j’ai décidé à 35 ans de me lancer dans cette nouvelle aventure qui me stimule vraiment. Après avoir testé plusieurs chemins, je me suis rendu compte que ce qui me plaît, c'est de créer, coder, et voir des projets prendre forme grâce au développement. Aujourd'hui, je suis en pleine reconversion, et je n’ai jamais été aussi motivé !
 
 ## Compétences
 
